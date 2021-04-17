@@ -8,3 +8,5 @@ Usage:
 
 Person 1: "*Hey Jack, where's Craig?*"
 Person 2: "*The only clue is this note, __sir__.*"
+
+Author: Eurythmics
