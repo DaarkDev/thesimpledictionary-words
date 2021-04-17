@@ -7,6 +7,7 @@ Example: Jack who is a newbie to the group is called __Lerra__.
 Usage:
 
 Person 1: "*__Lerra__ over here is repulsed by heights.*"
+
 Person 2: "*Aw don't worry, you'll get used to it. (turns to Person 1) __Lerra__ is just nervous.*"
 
 Author: Eurythmics
