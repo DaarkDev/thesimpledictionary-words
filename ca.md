@@ -6,6 +6,6 @@ Example: People who always ask if they are __ca__, if they don't know if they ar
 
 Usage: 
 
-Person 1: "I know ca?"
+Person 1: "*I know __ca__?*"
 
 Author: Eurythmics
