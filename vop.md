@@ -6,5 +6,5 @@ of making such feelings known to the person.
 
 Usage: Gary asked Bill to vop it, because he was pushing the line.
 
-Person 1: You really need to lose weight Laura.
-Person 2 (Laura): Just vop.
+Person 1: "*You really need to lose weight Laura.*"
+Person 2 (Laura): "*Just __vop.__*"
