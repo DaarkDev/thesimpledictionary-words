@@ -3,6 +3,9 @@
 Definition: Someone who can accurately fit in one or more stereotypes. Their behavior is usually
 very typical for their kind, and will often posess other "soy" traits.
 
+Definition(2): Someone who is a radical <a href="https://daarkdev.github.io/thesimpledictionary-words/soydev.html">soydev</a> or possesses
+such traits.
+
 Definition(2): Something or someone that relates or pertains to a "soy" trait.
 
 Roots: "typical" and the root "soy". This is because
