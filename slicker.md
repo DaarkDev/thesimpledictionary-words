@@ -4,7 +4,7 @@ Definition: Someone who is both a <a href="https://daarkdev.github.io/thesimpled
 a <a href="https://daarkdev.github.io/thesimpledictionary-words/mocker.html">mocker</a>. Said person is usually narcissistic and
 tries to be known as an "alpha male" among acquaintances.
 
-Example: jason is a __slicker__, he fits the description perfectly.
+Example: Jason is a __slicker__, he fits the description perfectly.
 
 Usage:
 
