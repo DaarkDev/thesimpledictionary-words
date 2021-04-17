@@ -14,3 +14,5 @@ Usage:
 
 Person 1: "*__Qi Ca__, Jack!*"
 Person 2: "*Ca sir!*"
+
+Author: Eurythmics
