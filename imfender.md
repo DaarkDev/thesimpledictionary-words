@@ -3,7 +3,7 @@
 Definition: Someone who slaps the phrase "no offense, but.." before every insult as an
 excuse to mock or patronize someone, and expects them not to take offense somehow.
 
-Roots: "offendor" (one who makes another take offense), and "im" meaning not.
+Roots: "offender" (one who makes another take offense), and the prefix "im" meaning not.
 
 Example: Gin told me not to take offense,
 but then he insulted me with a racial slur!
