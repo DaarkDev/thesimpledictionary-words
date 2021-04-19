@@ -1,8 +1,9 @@
 # Enducer
+<link rel="stylesheet" href="_layouts/style.css">
 
 Definition: Someone who influences another person's behavior, actions, or tries to lead someone down a specific path of actions in order to reach a certain end result.
 
-Root: Primarily coming from the words "Induce" and "end". This is because you are "inducing" someone to an end result if you are an __enducer__.
+Root: Primarily coming from the words "induce" and "end". This is because you are "inducing" someone to an end result if you are an __enducer__.
 
 Example: William is an __enducer__. He manipulates people to in the end, give him his desired outcome.
 
