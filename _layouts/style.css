@@ -1,0 +1,18 @@
+html {
+    padding-top: 10px;
+    background: linear-gradient(rgb(79, 86, 89), rgb(0, 0, 0)) no-repeat fixed;
+    margin-bottom: 500px;
+    max-height: 835px;
+}
+body {
+    margin: auto;
+    color: #ddd;
+    background: rgba(0,0,0,.3);;
+    padding: 20px;
+    border-radius: 50px;
+    max-width: 800px;
+    display: block;
+}
+a {
+    color: rgb(142, 151, 153);
+}
