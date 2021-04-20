@@ -1,4 +1,4 @@
-# Aumente
+## Aumente
 
 Definition: A direct way of saying hello. Somewhat different from "Qi ca".
 
