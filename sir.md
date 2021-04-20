@@ -1,4 +1,4 @@
-# Sir
+## Sir
 
 Definition: Indeed; affirming a statement you just made. Buttressing it.
 

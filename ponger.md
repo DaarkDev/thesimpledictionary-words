@@ -1,4 +1,4 @@
-# Ponger
+## Ponger
 
 Definition: Someone who is "in the dark" about a topic. This could be because they ignore others opinions,
 or believe theirs is superior above all others without any logical validation. They are also commonly

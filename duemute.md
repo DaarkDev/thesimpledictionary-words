@@ -1,4 +1,4 @@
-# Duemute
+## Duemute
 
 Definition: Someone who thinks they are muted, typically because they hit the mute twice.
 

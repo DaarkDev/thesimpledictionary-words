@@ -1,4 +1,4 @@
-# Soyvice
+## Soyvice
 
 Definition: Someone who presumes all technology to be harmful, and refuses
 to learn more about it while making their opinion rather stale.

@@ -1,4 +1,4 @@
-# Dassy
+## Dassy
 
 Definition: A diligent worker, who is constantly laboring (can be mental or physical, typically mental). It can be good or bad, 
 saying you are thankful for the work, or you think they are overworking.

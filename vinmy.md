@@ -1,4 +1,4 @@
-# Vinmy
+## Vinmy
 
 Definition: Someone who will seek any opportunity to get money. Particularly on internet, hence name "vinmy" as in "Venmo".
 

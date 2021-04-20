@@ -1,4 +1,4 @@
-# Vanilla
+## Vanilla
 
 Definition: Growing friendship.
 

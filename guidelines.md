@@ -1,4 +1,4 @@
-# Word Submission Guidelines
+## Word Submission Guidelines
 
 Please make sure to follow the proper guidelines below when submitting a new word [here](https://forms.gle/WCmRCXVcfHsLTgZ1A).
 

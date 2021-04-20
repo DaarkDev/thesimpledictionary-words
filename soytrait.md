@@ -1,4 +1,4 @@
-# Soytrait
+## Soytrait
 
 Definition: A trait that comes from a <a href="https://daarkdev.github.io/thesimpledictionary-words/soydev.html">soydev</a>.
 

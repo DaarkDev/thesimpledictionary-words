@@ -1,4 +1,4 @@
-# Soychat
+## Soychat
 
 Definition: Someone who talks too much at gatherings, and leaves after they say to leave or exit
 in some way or fashion. Instead of exiting in the requested manner, they start a new

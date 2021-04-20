@@ -1,4 +1,4 @@
-# But no shotgun? (Phrase)
+## But no shotgun? (Phrase)
 
 Definition: When something is allowed that is surprising, you would say that it is allowed, __but no shotgun__.
 

@@ -1,4 +1,4 @@
-# Imfender
+## Imfender
 
 Definition: Someone who slaps the phrase "no offense, but.." before every insult as an
 excuse to mock or patronize someone, and expects them not to take offense somehow.

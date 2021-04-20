@@ -1,4 +1,4 @@
-# Qi
+## Qi
 
 Definition: A word that means "Hello" or a greeting, but it is improper to use it alone. 
 It is used in other phrases (such as "Qi Ca"). It can also be used as a verb in some cases, 

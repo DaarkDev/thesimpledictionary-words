@@ -1,4 +1,4 @@
-# Opriss
+## Opriss
 
 Definition: Against; has a better idea.
 

@@ -1,4 +1,4 @@
-# Imsocal
+## Imsocal
 
 Definition: Originates from <a href="https://daarkdev.github.io/thesimpledictionary-words/socal.html">socal</a> and <a href="https://daarkdev.github.io/thesimpledictionary-words/insocal.html">insocal</a>.
 It means to be partially <a href="https://daarkdev.github.io/thesimpledictionary-words/socal.html">socal</a>, but not radical.

@@ -1,4 +1,4 @@
-# Slicker
+## Slicker
 
 Definition: Someone who is both a <a href="https://daarkdev.github.io/thesimpledictionary-words/slinger.html">slinger</a> and also
 a <a href="https://daarkdev.github.io/thesimpledictionary-words/mocker.html">mocker</a>. Said person is usually narcissistic and

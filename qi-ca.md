@@ -1,4 +1,4 @@
-# Qi Ca
+## Qi Ca
 
 Definition: A greeting of sorts, said cheerily. It is not sarcastic and used to alert presence politely with an
 implied positive connotation.

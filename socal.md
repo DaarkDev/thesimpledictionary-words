@@ -1,4 +1,4 @@
-# Socal (Root Word)
+## Socal (Root Word)
 
 Definition: When someone has the traits of a <a href="https://daarkdev.github.io/thesimpledictionary-words/soydev.html">soydev</a>. It is also
 used as a root word for some of the "soy words" and is also a primary root in the words <a href="https://daarkdev.github.io/thesimpledictionary-words/insocal.html">insocal</a> and <a href="https://daarkdev.github.io/thesimpledictionary-words/imsocal.html">imsocal</a>. 

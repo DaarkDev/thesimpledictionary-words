@@ -1,4 +1,4 @@
-# Flashy
+## Flashy
 
 Definition: A website that has "over the top" styling and
 tries to look as fancy as possible. This often crams the website with

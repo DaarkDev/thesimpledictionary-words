@@ -1,4 +1,4 @@
-# Mazer
+## Mazer
 
 Definition: Someone who likes researching and finding the backstory.
 

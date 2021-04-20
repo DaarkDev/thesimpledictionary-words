@@ -1,4 +1,4 @@
-# Submarine
+## Submarine
 
 Definition: Someone who floods submissions; replies many times to forums. Has a neutral connotation.
 

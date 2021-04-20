@@ -1,4 +1,4 @@
-# Junker
+## Junker
 
 Definition: A website that typically uses too much CSS, javascript, and often times
 also ads and trackers that slow the page down.

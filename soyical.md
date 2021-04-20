@@ -1,4 +1,4 @@
-# Soyical
+## Soyical
 
 Definition: Someone who can accurately fit in one or more stereotypes. Their behavior is usually
 very typical for their kind, and will often posess other "soy" traits.

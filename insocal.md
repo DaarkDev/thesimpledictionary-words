@@ -1,4 +1,4 @@
-# Insocal
+## Insocal
 
 Definition: Someone who tries not to be a <a href="https://daarkdev.github.io/thesimpledictionary-words/soydev.html">soydev</a>,
 or straight up isn't one.

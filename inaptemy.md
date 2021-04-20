@@ -1,4 +1,4 @@
-# Inaptemy
+## Inaptemy
 
 Definition: An enemy who is not apt for you. This could be because they are unqualified compared
 to you thus making you look superior, or they may be irrelevant in some way.

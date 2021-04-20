@@ -1,4 +1,4 @@
-# Soytain (Connector word)
+## Soytain (Connector word)
 
 Definition: Used as a connection word to show relation between a noun and a "soy" trait or something that
 pertains to a "soy" word, root, definition, or characteristic.

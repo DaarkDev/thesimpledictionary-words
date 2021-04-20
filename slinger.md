@@ -1,4 +1,4 @@
-# Slinger
+## Slinger
 
 Definition: Someone who is obsessed with athletics, and is often very mean to people
 who are not athletic or do not like sports. It is also very common of them to act

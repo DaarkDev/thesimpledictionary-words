@@ -1,4 +1,4 @@
-# Not another shrubbery! (Phrase)
+## Not another shrubbery! (Phrase)
 
 Definition: Saying something has happened again; basically replace shrubbery with whatever word fits the situation. 
 
