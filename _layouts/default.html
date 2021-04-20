@@ -4,14 +4,33 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="_layouts/style.css">
 
 {% seo %}
   </head>
+  <style>
+     html {
+        padding-top: 10px;
+        background: linear-gradient(rgb(79, 86, 89), rgb(0, 0, 0)) no-repeat fixed;
+        margin-bottom: 500px;
+        max-height: 835px;
+    }
+    body {
+        margin: auto;
+        color: #ddd;
+        background: rgba(0,0,0,.3);;
+        padding: 20px;
+        border-radius: 50px;
+        max-width: 800px;
+        display: block;
+    }
+    a {
+        color: rgb(142, 151, 153);
+    }
+  </style>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
-      <h1><a href="http://geoughx2.net/dict/">The Simple Dictionary Homepage</a></h1>
+      <h1><a href="http://geoughx2.net/dict/">The Simple Dictionary</a></h1>
       {% endif %}
 
       {{ content }}
